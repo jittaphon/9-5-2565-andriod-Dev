@@ -21,4 +21,3 @@ class Body extends StatelessWidget {
     );
   }
 }
-
